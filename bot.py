@@ -13,7 +13,7 @@ from aiogram.types import (Message, BusinessConnection, BusinessMessagesDeleted,
 load_dotenv()
 BOT_TOKEN  = os.getenv("BOT_TOKEN")
 DB_PATH    = "spy.db"
-ADMIN_ID   = 81546187
+ADMIN_ID   = 1122373839
 PHOTO_PATH = "tutorial.png"
 _cache     = {"photo_file_id": None}
 
